@@ -5,4 +5,5 @@ public interface Item {
     void setType(String type);
     void setDescription(String description);
     void setPrice(float price);
+    void setXmasBonus(String bonus);
 }
