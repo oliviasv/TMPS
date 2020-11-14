@@ -4,7 +4,6 @@ public class OrangeJuice implements FreshJuice {
     private String name = "Orange Juice";
     private float price = 35;
 
-
     public void setName(String name) {
         this.name = name;
     }
@@ -12,7 +11,6 @@ public class OrangeJuice implements FreshJuice {
     public void setPrice(float price) {
         this.price = price;
     }
-
 
     @Override
     public String toString() {
