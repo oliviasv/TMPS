@@ -6,7 +6,6 @@ public class Fruit implements Item {
     private String description;
     private float price;
 
-
     public void setName(String name) {
         this.name = name;
     }
@@ -22,7 +21,6 @@ public class Fruit implements Item {
     public void setPrice(float price) {
         this.price = price;
     }
-
 
     @Override
     public String toString() {
