@@ -96,9 +96,8 @@ public class DiscountCardCondition {
 ```
 
 ## Results
-
-![] (BDP/img/img1.jpg)
-![] (BDP/img/img2.jpg)
+![alt text](img/img1.jpg)
+![alt text](img/img2.jpg)
 
 ## Status
 - [x] *Finished*
